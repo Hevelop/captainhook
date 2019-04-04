@@ -1,7 +1,7 @@
 {
   "name": "captainhook/captainhook",
   "type": "library",
-  "description": "PHP git hook manager",
+  "description": "PHP git hook manager hevelop fork",
   "keywords": ["git", "hooks", "pre-commit", "pre-push", "commit-msg", "prepare-commit-msg"],
   "homepage": "https://github.com/captainhookphp/captainhook",
   "license": "MIT",
